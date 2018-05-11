@@ -1,6 +1,6 @@
 {
   "name": "exentriq-fastclick",
-  "version": "1.0.6",
+  "version": "1.0.14",
   "description": "Polyfill to remove click delays on browsers with touch UIs. ",
   "main": "lib/fastclick.js",
   "repository": {
